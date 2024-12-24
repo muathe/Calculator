@@ -25,7 +25,7 @@ operations = {
 # call to action
 def calculator():
  
-
+#
   num1 = float(input("What's the first number?: "))
   for symbol in operations:
     print(symbol)
