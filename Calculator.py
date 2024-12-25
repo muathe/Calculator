@@ -14,7 +14,7 @@ def multiply(n1, n2):
 def divide(n1, n2):
   return n1 / n2
 
-#list of operators used to pick from input function.
+# list of operators used to pick from input function.
 operations = {
   "+": add,
   "-": subtract,
