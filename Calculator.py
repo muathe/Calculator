@@ -22,7 +22,7 @@ operations = {
   "/": divide
 }
 
-# call to action
+# call to action code
 def calculator():
  
 
@@ -45,3 +45,4 @@ def calculator():
       clear()
       calculator()
 calculator()
+
