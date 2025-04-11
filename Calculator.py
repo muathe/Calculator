@@ -49,4 +49,4 @@ calculator()
 
 
 
-#Cell subtracting
+#Cell subtracting from
